@@ -46,5 +46,15 @@ The post build script tries to add symlink to the libs. If it fails do it manual
 ln -s /path/to/lib /path/to/build/bin/lib
 ```
 
-### AutoSDL Usage
+## AutoSDL Usage
+
 <img src="https://github.com/Chlorine-trifluoride/media/raw/master/cargamegif.gif"/>
+
+### Keys
+
+| Action                         | Key                           |
+| ------------------------------ | ----------------------------- |
+| Turn Engine On / Off		 | Z / X			 |
+| Accelerate / Brake		 | W / S			 |
+| Turn Left / Right		 | A / D			 |
+| Exit program			 | Escape			 |
